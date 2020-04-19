@@ -5,10 +5,10 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="2d2fe5afdf38461090f0f55e15962008" Name="Diagram1">
-        <EntityTypeShape EntityType="Delivery_DBModel.menu" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="Delivery_DBModel.order" Width="1.75" PointX="5.625" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="Delivery_DBModel.user" Width="1.5" PointX="8.25" PointY="0.875" IsExpanded="true" />
-        <EntityTypeShape EntityType="Delivery_DBModel.AspNetUser" Width="1.5" PointX="3.25" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Delivery_DBModel.menu" Width="1.5" PointX="2.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Delivery_DBModel.order" Width="1.75" PointX="7.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Delivery_DBModel.user" Width="1.5" PointX="2.5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Delivery_DBModel.AspNetUser" Width="1.875" PointX="5.125" PointY="0.5" IsExpanded="true" />
         <AssociationConnector Association="Delivery_DBModel.FK_dbo_menu_dbo_AspNetUsers_Id" />
       </Diagram>
     </edmx:Diagrams>
